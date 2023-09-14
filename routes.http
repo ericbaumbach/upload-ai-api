@@ -32,6 +32,6 @@ Content-Type: application/json
 
 {
     "videoId": "c45272fb-6604-4b7d-8d92-fbcc8b427d7a",
-    "template": "Qual é o contexto da transcrição? '''{transcription}'''",
+    "prompt": "Qual é o contexto da transcrição? '''{transcription}'''",
     "temperature": 0.3
 }
